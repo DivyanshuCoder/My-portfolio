@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+    background-color: yellow;
+}
+.line{
+    height: 20px;
+    width: 500px;
+    margin: 8px auto;
+    background-color : black;
+}
+#app{
+    height: 800px;
+    width: 100%;
+    background-color: red;
+}
+#game{
+    height: 800px;
+    width: 100%;
+    background: orange;
+}
+#chatbot{
+    height: 800px;
+    width: 100%;
+    background-color: lime;
+        
+}
+img:hover{
+    
+    transform: scale(0.9);
+    
+    
+}
+img{
+    transition: transform .2s;
+}
+#head1{
+    font-family: 'MonteCarlo', cursive;
+}
